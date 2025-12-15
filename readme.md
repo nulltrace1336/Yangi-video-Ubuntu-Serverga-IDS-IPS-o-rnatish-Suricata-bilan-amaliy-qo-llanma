@@ -1,9 +1,5 @@
-## 🎥 Video qo‘llanma
-
-Quyidagi videoda Nmap skanerlash amaliyoti batafsil tushuntirilgan:
-
-[![Nmap Tutorial](https://img.youtube.com/vi/RRVQuJPllUs/0.jpg)](https://www.youtube.com/watch?v=RRVQuJPllUs&t=7s)
-
+## 🎥 Ushbu YouTube video rolik
+[![YouTube Video](https://img.youtube.com/vi/RRVQuJPllUs/0.jpg)](https://www.youtube.com/watch?v=RRVQuJPllUs&t=7s)
 
 
 
