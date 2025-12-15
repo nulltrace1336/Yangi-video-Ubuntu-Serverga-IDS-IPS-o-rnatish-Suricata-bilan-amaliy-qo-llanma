@@ -1,4 +1,5 @@
-[![YouTube Video](https://img.youtube.com/vi/RRVQuJPllUs/maxresdefault.jpg)](https://www.youtube.com/watch?v=RRVQuJPllUs&t=7s)
+[![YouTube Video](https://img.youtube.com/vi/RRVQuJPllUs/0.jpg)](https://www.youtube.com/watch?v=RRVQuJPllUs&t=7s)
+
 
 
 ✅ 1. ARXITEKTURA (ENG TO‘G‘RI UCHTA USUL)
